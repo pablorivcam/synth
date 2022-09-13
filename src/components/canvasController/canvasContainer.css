@@ -1,8 +1,8 @@
-#synth_container {
+#canvas_container {
     width: 100%;
 }
 
-#synth_container canvas {
+#synthCanvas {
     width: 100%;
     height: 30em;
 }

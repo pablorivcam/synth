@@ -1,0 +1,13 @@
+export const noteMap = new Map();
+noteMap.set('a', 'C');
+noteMap.set('w', 'C#');
+noteMap.set('s', 'D');
+noteMap.set('e', 'D#');
+noteMap.set('d', 'E');
+noteMap.set('f', 'F');
+noteMap.set('t', 'F#');
+noteMap.set('g', 'G');
+noteMap.set('y', 'G#');
+noteMap.set('h', 'A');
+noteMap.set('u', 'A#');
+noteMap.set('j', 'B');
